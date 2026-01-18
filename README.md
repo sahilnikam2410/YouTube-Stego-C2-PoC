@@ -18,4 +18,9 @@ This project demonstrates a **Steganographic Command & Control (C2)** channel th
 * **Libraries:** `google-api-python-client`
 
 ## ⚠️ Disclaimer
+
 This tool is developed for **educational purposes only** to demonstrate vulnerabilities in reputation-based filtering. The author is not responsible for misuse.
+
+root@classified-mainframe:~# exit
+> [!] SESSION TERMINATED.
+> [!] GOODBYE, SAHIL_NIKAM.
